@@ -1,1 +1,1 @@
-
+c. Best response format must be JSON format. I mean, this has become a standard across all the platforms. It is very easy to access and manipulate as well at the same time. There are lots of plugins and packages as well which can make the developers life a bit easier. I guess previously people used XML format as a response. But that seems very horrible to me! Anyways, the JSON format should be the best we have for now :) 
