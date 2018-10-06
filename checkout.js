@@ -126,7 +126,7 @@ scan.scan('atv');
 scan.scan('atv');
 scan.scan('atv');
 scan.scan('vga');
-console.log(scan.total());
+console.log(scan.total()); // 249
 scan = new Checkout();
 scan.scan('atv');
 scan.scan('ipd');
@@ -135,9 +135,9 @@ scan.scan('atv');
 scan.scan('ipd');
 scan.scan('ipd');
 scan.scan('ipd');
-console.log(scan.total());
+console.log(scan.total()); // 2718.95
 scan = new Checkout();
 scan.scan('mbp');
 scan.scan('vga');
 scan.scan('ipd');
-console.log(scan.total());
+console.log(scan.total()); //1949.98
